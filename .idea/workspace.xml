@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="413d6228-aca3-4e79-be20-7443ff94e06e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604574508330</updated>
       <workItem from="1604574510412" duration="1494000" />
+      <workItem from="1604593478948" duration="397000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1604574561968</created>
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604575147097</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated by marco">
+      <created>1604593656838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604593656838</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -113,7 +121,8 @@
     <MESSAGE value="404 Title Changed" />
     <MESSAGE value="404 Title Changed surname" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Updated by marco" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated by marco" />
   </component>
   <component name="WindowStateProjectService">
     <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604574635464">
